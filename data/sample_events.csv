@@ -1,0 +1,11 @@
+user_id,event_name,event_time,feature,result
+u1,dashboard_view,2026-02-01T09:12:00Z,dashboard,ok
+u1,quick_action_click,2026-02-01T09:13:00Z,utility_a,ok
+u1,quick_action_complete,2026-02-01T09:13:05Z,utility_a,ok
+u2,dashboard_view,2026-02-01T10:02:00Z,dashboard,ok
+u2,quick_action_click,2026-02-01T10:03:00Z,utility_a,ok
+u2,quick_action_error,2026-02-01T10:03:03Z,utility_a,error
+u3,dashboard_view,2026-02-02T08:00:00Z,dashboard,ok
+u3,alert_enabled,2026-02-02T08:01:00Z,alerts,ok
+u3,alert_triggered,2026-02-02T08:30:00Z,alerts,ok
+u3,alert_dismissed,2026-02-02T08:31:00Z,alerts,ok
